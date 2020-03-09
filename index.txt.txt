@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 a<!DOCTYPE html>
 <html lang="en">
+=======
+<!DOCTYPE html>
+<html lang="es">
+>>>>>>> 5e9a213763bdee14a309c0dd0d2d940814408807
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
