@@ -31,6 +31,8 @@
 * Moviment de la càmera
 * Integració del primer item
 
+![Demo](https://github.com/IkanaIgosDu/Projectes-Integrats-II/blob/master/imagen_2021-03-30_001112.png)
+
 ### To be Done
 
 * Acabar d’implementar els items
@@ -40,3 +42,4 @@
 * Implementar els coins
 * Afegir assets de l'escenari
 
+![Player](https://github.com/IkanaIgosDu/Projectes-Integrats-II/blob/master/pas3.png)
