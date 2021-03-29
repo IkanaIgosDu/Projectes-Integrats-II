@@ -20,7 +20,7 @@
  * Bosc
  * Galaxia
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Demo](https://github.com/IkanaIgosDu/Projectes-Integrats-II/blob/master/ezgif.com-gif-maker.gif)
 
 ### Done
 
